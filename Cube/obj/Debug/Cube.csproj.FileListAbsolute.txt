@@ -1,0 +1,7 @@
+E:\CSharpProject\Cube\Cube\bin\Debug\Cube.exe.config
+E:\CSharpProject\Cube\Cube\bin\Debug\Cube.exe
+E:\CSharpProject\Cube\Cube\bin\Debug\Cube.pdb
+E:\CSharpProject\Cube\Cube\obj\Debug\Cube.csproj.AssemblyReference.cache
+E:\CSharpProject\Cube\Cube\obj\Debug\Cube.csproj.CoreCompileInputs.cache
+E:\CSharpProject\Cube\Cube\obj\Debug\Cube.exe
+E:\CSharpProject\Cube\Cube\obj\Debug\Cube.pdb
